@@ -47,7 +47,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/realredz/BloxFruits/r
   end
   })
   
-  AddButton(Tab2o, {
+  AddButton(Tab1o, {
      Name = "Blue-xHub",
     Callback = function()
 	  local Settings = {
